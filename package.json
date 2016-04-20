@@ -1,0 +1,25 @@
+{
+  "name": "ycbm-fetch",
+  "version": "0.0.1",
+  "description": "Download your booking data from You Can Book Me's servers",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "ycbm",
+    "you",
+    "can",
+    "book",
+    "me",
+    "fetch",
+    "extract",
+    "liberate"
+  ],
+  "author": "Nicholas van de Walle",
+  "license": "MIT",
+  "dependencies": {
+    "query-string": "^4.1.0",
+    "request": "^2.72.0"
+  }
+}
